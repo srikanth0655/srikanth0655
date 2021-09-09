@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Srikanth Naini
+- 👀 I’m interested in writing programming languages.
+- 🌱 I’m currently learning Github
+- 💞️ I’m looking to collaborate on ping pong withsomeone
+- 📫 How to reach me ...srikanthnaini
